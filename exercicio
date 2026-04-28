@@ -1,0 +1,7 @@
+login = input("Digite seu usuário:")
+senha = input("Digite sua senha:")
+
+if login == "Jéssica" and senha == "1234":
+    print("Acesso liberado!")
+else:
+    print("Usuário não localizado")

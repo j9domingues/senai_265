@@ -1,5 +1,5 @@
 
-## Aula  if elif else 
+## Aula  if elif else =! 
 
 sinal = input("Digite o sinal:")
 
